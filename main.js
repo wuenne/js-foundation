@@ -10,5 +10,4 @@ function sayGoodBye() {
     return "Bye bye Wuenne!";   
 }
 
-
 export default wuenne;
