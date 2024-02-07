@@ -1,1 +1,5 @@
-import * as TST from "./modules/tools.js";
+class olejo {
+    static sayHelloJoerg(){
+        return "Hello Joerg!";
+    }
+}
