@@ -1,1 +1,1 @@
-export default './tools'
+import * as TST from "./modules/tools.js";
