@@ -3,3 +3,5 @@ class olejo {
         return "Hello Joerg!";
     }
 }
+
+export default olejo;
