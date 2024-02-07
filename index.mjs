@@ -1,3 +1,1 @@
-module.exports = {
-    tools: require('./tools'),
-};
+export const tools = require('./tools');
