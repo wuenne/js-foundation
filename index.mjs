@@ -1,1 +1,1 @@
-export const tools = require('./tools');
+export default './tools'
